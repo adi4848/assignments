@@ -6,4 +6,5 @@ int main(){
 	int c=a+b;
 	cout<<c;
 	cout<<"after changing it for the first time this the change"<<endl;
+	cout<<"changed for second branch"<<endl;
 }
