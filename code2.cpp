@@ -9,4 +9,5 @@ int main(){
 	cout <<"ENTER VALUE OF MULTIPLIER"<<endl;
     cin>>c;
 	cout<<a*b*c;
+	cout<<"changed"<<endl;
 }
