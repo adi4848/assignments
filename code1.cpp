@@ -5,4 +5,5 @@ int main(){
 	int b=2;
 	int c=a+b;
 	cout<<c;
+	cout<<"after changing it for the first time this the change"<<endl;
 }
