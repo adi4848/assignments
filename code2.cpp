@@ -10,4 +10,5 @@ int main(){
     cin>>c;
 	cout<<a*b*c;
 	cout<<"changed"<<endl;
+	cout<<"changed for master"<<endl;
 }
