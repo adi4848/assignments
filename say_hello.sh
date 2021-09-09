@@ -1,1 +1,1 @@
-Thiss file says hello to jenkins
+echo "hello jenkins from git hub"
